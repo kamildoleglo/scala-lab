@@ -1,0 +1,1 @@
+scalac -bootclasspath /home/kamil/.sbt/boot/scala-2.12.4/lib/scala-library.jar -classpath /home/kamil/Documents/scala_lab/target/scala-2.12/classes /home/kamil/Documents/scala_lab/lab2.8.scala
